@@ -1,0 +1,304 @@
+[
+  {
+    "playerName": "Virat Kohli",
+    "playerCountry": "India",
+    "playerType": "Batsman",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Medium",
+    "rating": 9.5,
+    "price": "$1200000",
+    "playerImg": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Virat_Kohli.jpg"
+  },
+  {
+    "playerName": "Babar Azam",
+    "playerCountry": "Pakistan",
+    "playerType": "Batsman",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Offbreak",
+    "rating": 9.2,
+    "price": "$1100000",
+    "playerImg": "https://ui-avatars.com/api/?name=Babar+Azam"
+  },
+  {
+    "playerName": "Shakib Al Hasan",
+    "playerCountry": "Bangladesh",
+    "playerType": "All-rounder",
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Orthodox",
+    "rating": 9.3,
+    "price": "$1150000",
+    "playerImg": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Shakib_Al_Hasan.jpg"
+  },
+  {
+    "playerName": "Ben Stokes",
+    "playerCountry": "England",
+    "playerType": "All-rounder",
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Fast-medium",
+    "rating": 9.0,
+    "price": "$1300000",
+    "playerImg": "https://ui-avatars.com/api/?name=Ben+Stokes"
+  },
+  {
+    "playerName": "Kane Williamson",
+    "playerCountry": "New Zealand",
+    "playerType": "Batsman",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Offbreak",
+    "rating": 8.9,
+    "price": "$1000000",
+    "playerImg": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Kane_Williamson.jpg"
+  },
+  {
+    "playerName": "Joe Root",
+    "playerCountry": "England",
+    "playerType": "Batsman",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Offbreak",
+    "rating": 9.1,
+    "price": "$1050000",
+    "playerImg": "https://ui-avatars.com/api/?name=Joe+Root"
+  },
+  {
+    "playerName": "Steve Smith",
+    "playerCountry": "Australia",
+    "playerType": "Batsman",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Legbreak",
+    "rating": 9.3,
+    "price": "$1120000",
+    "playerImg": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Steve_Smith.jpg"
+  },
+  {
+    "playerName": "David Warner",
+    "playerCountry": "Australia",
+    "playerType": "Batsman",
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Legbreak",
+    "rating": 8.7,
+    "price": "$980000",
+    "playerImg": "https://ui-avatars.com/api/?name=David+Warner"
+  },
+  {
+    "playerName": "Rohit Sharma",
+    "playerCountry": "India",
+    "playerType": "Batsman",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Offbreak",
+    "rating": 9.0,
+    "price": "$1100000",
+    "playerImg": "https://upload.wikimedia.org/wikipedia/commons/1/19/Rohit_Sharma.jpg"
+  },
+  {
+    "playerName": "KL Rahul",
+    "playerCountry": "India",
+    "playerType": "Wicketkeeper",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "N/A",
+    "rating": 8.8,
+    "price": "$950000",
+    "playerImg": "https://ui-avatars.com/api/?name=KL+Rahul"
+  },
+
+  {
+    "playerName": "Jos Buttler",
+    "playerCountry": "England",
+    "playerType": "Wicketkeeper",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "N/A",
+    "rating": 8.9,
+    "price": "$1050000",
+    "playerImg": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Jos_Buttler.jpg"
+  },
+  {
+    "playerName": "Quinton de Kock",
+    "playerCountry": "South Africa",
+    "playerType": "Wicketkeeper",
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "N/A",
+    "rating": 8.7,
+    "price": "$980000",
+    "playerImg": "https://ui-avatars.com/api/?name=Quinton+de+Kock"
+  },
+  {
+    "playerName": "Rashid Khan",
+    "playerCountry": "Afghanistan",
+    "playerType": "Bowler",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Legbreak",
+    "rating": 9.4,
+    "price": "$1250000",
+    "playerImg": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Rashid_Khan.jpg"
+  },
+  {
+    "playerName": "Jasprit Bumrah",
+    "playerCountry": "India",
+    "playerType": "Bowler",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Fast",
+    "rating": 9.1,
+    "price": "$1200000",
+    "playerImg": "https://ui-avatars.com/api/?name=Jasprit+Bumrah"
+  },
+  {
+    "playerName": "Mitchell Starc",
+    "playerCountry": "Australia",
+    "playerType": "Bowler",
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Fast",
+    "rating": 9.0,
+    "price": "$1180000",
+    "playerImg": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Mitchell_Starc.jpg"
+  },
+  {
+    "playerName": "Pat Cummins",
+    "playerCountry": "Australia",
+    "playerType": "Bowler",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Fast",
+    "rating": 9.2,
+    "price": "$1220000",
+    "playerImg": "https://ui-avatars.com/api/?name=Pat+Cummins"
+  },
+  {
+    "playerName": "Trent Boult",
+    "playerCountry": "New Zealand",
+    "playerType": "Bowler",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Fast",
+    "rating": 8.9,
+    "price": "$1100000",
+    "playerImg": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Trent_Boult.jpg"
+  },
+  {
+    "playerName": "Shaheen Afridi",
+    "playerCountry": "Pakistan",
+    "playerType": "Bowler",
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Fast",
+    "rating": 9.0,
+    "price": "$1150000",
+    "playerImg": "https://ui-avatars.com/api/?name=Shaheen+Afridi"
+  },
+  {
+    "playerName": "Mustafizur Rahman",
+    "playerCountry": "Bangladesh",
+    "playerType": "Bowler",
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Fast-medium",
+    "rating": 8.8,
+    "price": "$950000",
+    "playerImg": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Mustafizur_Rahman.jpg"
+  },
+  {
+    "playerName": "Hardik Pandya",
+    "playerCountry": "India",
+    "playerType": "All-rounder",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Fast-medium",
+    "rating": 9.0,
+    "price": "$1100000",
+    "playerImg": "https://ui-avatars.com/api/?name=Hardik+Pandya"
+  },
+
+  {
+    "playerName": "Andre Russell",
+    "playerCountry": "West Indies",
+    "playerType": "All-rounder",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Fast",
+    "rating": 9.1,
+    "price": "$1200000",
+    "playerImg": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Andre_Russell.jpg"
+  },
+  {
+    "playerName": "Glenn Maxwell",
+    "playerCountry": "Australia",
+    "playerType": "All-rounder",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Offbreak",
+    "rating": 8.9,
+    "price": "$1080000",
+    "playerImg": "https://ui-avatars.com/api/?name=Glenn+Maxwell"
+  },
+  {
+    "playerName": "Moeen Ali",
+    "playerCountry": "England",
+    "playerType": "All-rounder",
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Offbreak",
+    "rating": 8.7,
+    "price": "$970000",
+    "playerImg": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Moeen_Ali.jpg"
+  },
+  {
+    "playerName": "Ravindra Jadeja",
+    "playerCountry": "India",
+    "playerType": "All-rounder",
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Orthodox",
+    "rating": 9.2,
+    "price": "$1150000",
+    "playerImg": "https://ui-avatars.com/api/?name=Ravindra+Jadeja"
+  },
+  {
+    "playerName": "Mushfiqur Rahim",
+    "playerCountry": "Bangladesh",
+    "playerType": "Wicketkeeper",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "N/A",
+    "rating": 8.6,
+    "price": "$900000",
+    "playerImg": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Mushfiqur_Rahim.jpg"
+  },
+  {
+    "playerName": "Tamim Iqbal",
+    "playerCountry": "Bangladesh",
+    "playerType": "Batsman",
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "N/A",
+    "rating": 8.5,
+    "price": "$880000",
+    "playerImg": "https://ui-avatars.com/api/?name=Tamim+Iqbal"
+  },
+  {
+    "playerName": "Litton Das",
+    "playerCountry": "Bangladesh",
+    "playerType": "Wicketkeeper",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "N/A",
+    "rating": 8.7,
+    "price": "$920000",
+    "playerImg": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Litton_Das.jpg"
+  },
+  {
+    "playerName": "Aiden Markram",
+    "playerCountry": "South Africa",
+    "playerType": "Batsman",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Offbreak",
+    "rating": 8.6,
+    "price": "$940000",
+    "playerImg": "https://ui-avatars.com/api/?name=Aiden+Markram"
+  },
+  {
+    "playerName": "Faf du Plessis",
+    "playerCountry": "South Africa",
+    "playerType": "Batsman",
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Legbreak",
+    "rating": 8.8,
+    "price": "$990000",
+    "playerImg": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Faf_du_Plessis.jpg"
+  },
+  {
+    "playerName": "Kagiso Rabada",
+    "playerCountry": "South Africa",
+    "playerType": "Bowler",
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Fast",
+    "rating": 9.0,
+    "price": "$1150000",
+    "playerImg": "https://ui-avatars.com/api/?name=Kagiso+Rabada"
+  }
+]

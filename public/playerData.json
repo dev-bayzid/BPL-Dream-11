@@ -7,7 +7,7 @@
     "bowlingStyle": "Medium",
     "rating": 9.5,
     "price": "$1200000",
-    "playerImg": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Virat_Kohli.jpg"
+    "playerImg": "https://i.ibb.co.com/5hKjdVjy/Virat-Kohli.webp"
   },
   {
     "playerName": "Babar Azam",
@@ -17,7 +17,7 @@
     "bowlingStyle": "Offbreak",
     "rating": 9.2,
     "price": "$1100000",
-    "playerImg": "https://ui-avatars.com/api/?name=Babar+Azam"
+    "playerImg": "https://i.ibb.co.com/YFfdvqkn/babar-azam-045318587-16x9-0.avif"
   },
   {
     "playerName": "Shakib Al Hasan",
@@ -27,7 +27,7 @@
     "bowlingStyle": "Orthodox",
     "rating": 9.3,
     "price": "$1150000",
-    "playerImg": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Shakib_Al_Hasan.jpg"
+    "playerImg": "https://i.ibb.co.com/XZ7PKctf/sh.jpg"
   },
   {
     "playerName": "Ben Stokes",
@@ -37,7 +37,7 @@
     "bowlingStyle": "Fast-medium",
     "rating": 9.0,
     "price": "$1300000",
-    "playerImg": "https://ui-avatars.com/api/?name=Ben+Stokes"
+    "playerImg": "https://i.ibb.co.com/hxdL1Vxc/skysports-pa-ben-stokes-england-5805019.jpg"
   },
   {
     "playerName": "Kane Williamson",
@@ -47,7 +47,7 @@
     "bowlingStyle": "Offbreak",
     "rating": 8.9,
     "price": "$1000000",
-    "playerImg": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Kane_Williamson.jpg"
+    "playerImg": " https://i.ibb.co.com/8LFm1YSS/6laqmd4g-kane-williamson-625x300-11-February-25.webp"
   },
   {
     "playerName": "Joe Root",
@@ -57,7 +57,7 @@
     "bowlingStyle": "Offbreak",
     "rating": 9.1,
     "price": "$1050000",
-    "playerImg": "https://ui-avatars.com/api/?name=Joe+Root"
+    "playerImg": "https://i.ibb.co.com/nNWrpBpg/root.avifl "
   },
   {
     "playerName": "Steve Smith",
@@ -67,7 +67,7 @@
     "bowlingStyle": "Legbreak",
     "rating": 9.3,
     "price": "$1120000",
-    "playerImg": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Steve_Smith.jpg"
+    "playerImg": " https://i.ibb.co.com/63LQvdY/steve-smith3.jpg"
   },
   {
     "playerName": "David Warner",
@@ -77,7 +77,7 @@
     "bowlingStyle": "Legbreak",
     "rating": 8.7,
     "price": "$980000",
-    "playerImg": "https://ui-avatars.com/api/?name=David+Warner"
+    "playerImg": "https://i.ibb.co.com/wFw2ZbF3/David-warner.png "
   },
   {
     "playerName": "Rohit Sharma",
@@ -87,7 +87,7 @@
     "bowlingStyle": "Offbreak",
     "rating": 9.0,
     "price": "$1100000",
-    "playerImg": "https://upload.wikimedia.org/wikipedia/commons/1/19/Rohit_Sharma.jpg"
+    "playerImg": " https://i.ibb.co.com/qY5wfNpq/Rohit-Sharma.png"
   },
   {
     "playerName": "KL Rahul",
@@ -97,7 +97,7 @@
     "bowlingStyle": "N/A",
     "rating": 8.8,
     "price": "$950000",
-    "playerImg": "https://ui-avatars.com/api/?name=KL+Rahul"
+    "playerImg": "https://i.ibb.co.com/pjfHwLwS/o4p1u264-kl-rahul-celebrates-his-hundred-against-punjab-kings-625x300-25-April-26.webp "
   },
 
   {
@@ -108,7 +108,7 @@
     "bowlingStyle": "N/A",
     "rating": 8.9,
     "price": "$1050000",
-    "playerImg": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Jos_Buttler.jpg"
+    "playerImg": "https://i.ibb.co.com/QvfQrMTy/jos-butler.jpg "
   },
   {
     "playerName": "Quinton de Kock",
@@ -118,7 +118,7 @@
     "bowlingStyle": "N/A",
     "rating": 8.7,
     "price": "$980000",
-    "playerImg": "https://ui-avatars.com/api/?name=Quinton+de+Kock"
+    "playerImg": " https://i.ibb.co.com/N657pyVN/Quinton-de-Kock-2.webp"
   },
   {
     "playerName": "Rashid Khan",
@@ -128,7 +128,7 @@
     "bowlingStyle": "Legbreak",
     "rating": 9.4,
     "price": "$1250000",
-    "playerImg": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Rashid_Khan.jpg"
+    "playerImg": "https://i.ibb.co.com/qLm01c0G/rashid-khan.webp "
   },
   {
     "playerName": "Jasprit Bumrah",
@@ -138,7 +138,7 @@
     "bowlingStyle": "Fast",
     "rating": 9.1,
     "price": "$1200000",
-    "playerImg": "https://ui-avatars.com/api/?name=Jasprit+Bumrah"
+    "playerImg": " https://i.ibb.co.com/bgbm39n8/dlsrhcqo-jasprit-bumrah-afp-625x300-21-June-24.webp"
   },
   {
     "playerName": "Mitchell Starc",
@@ -148,7 +148,7 @@
     "bowlingStyle": "Fast",
     "rating": 9.0,
     "price": "$1180000",
-    "playerImg": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Mitchell_Starc.jpg"
+    "playerImg": "https://i.ibb.co.com/8g7FLcvf/mitchel-starc.jpg "
   },
   {
     "playerName": "Pat Cummins",
@@ -158,7 +158,7 @@
     "bowlingStyle": "Fast",
     "rating": 9.2,
     "price": "$1220000",
-    "playerImg": "https://ui-avatars.com/api/?name=Pat+Cummins"
+    "playerImg": "https://i.ibb.co.com/dsWX6fCY/pat-cummins.jpg"
   },
   {
     "playerName": "Trent Boult",
@@ -168,7 +168,7 @@
     "bowlingStyle": "Fast",
     "rating": 8.9,
     "price": "$1100000",
-    "playerImg": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Trent_Boult.jpg"
+    "playerImg": "https://i.ibb.co.com/kgVpvDsv/trent-boult.webp "
   },
   {
     "playerName": "Shaheen Afridi",
@@ -178,7 +178,7 @@
     "bowlingStyle": "Fast",
     "rating": 9.0,
     "price": "$1150000",
-    "playerImg": "https://ui-avatars.com/api/?name=Shaheen+Afridi"
+    "playerImg": " https://i.ibb.co.com/4ggwkYW9/shaheen.webp"
   },
   {
     "playerName": "Mustafizur Rahman",
@@ -188,7 +188,7 @@
     "bowlingStyle": "Fast-medium",
     "rating": 8.8,
     "price": "$950000",
-    "playerImg": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Mustafizur_Rahman.jpg"
+    "playerImg": " https://i.ibb.co.com/wNd9dfvW/1770284674877-Mustafizur-Rahman-2.webp"
   },
   {
     "playerName": "Hardik Pandya",
@@ -198,7 +198,7 @@
     "bowlingStyle": "Fast-medium",
     "rating": 9.0,
     "price": "$1100000",
-    "playerImg": "https://ui-avatars.com/api/?name=Hardik+Pandya"
+    "playerImg": " https://i.ibb.co.com/yn0ktGd6/hardik-pandya-224459679-16x9.webp"
   },
 
   {
@@ -209,7 +209,7 @@
     "bowlingStyle": "Fast",
     "rating": 9.1,
     "price": "$1200000",
-    "playerImg": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Andre_Russell.jpg"
+    "playerImg": " https://i.ibb.co.com/Cd5Txt8/andre-russel.jpg"
   },
   {
     "playerName": "Glenn Maxwell",
@@ -219,7 +219,7 @@
     "bowlingStyle": "Offbreak",
     "rating": 8.9,
     "price": "$1080000",
-    "playerImg": "https://ui-avatars.com/api/?name=Glenn+Maxwell"
+    "playerImg": "https://i.ibb.co.com/h1Ydm2Yv/maxwell.webp"
   },
   {
     "playerName": "Moeen Ali",
@@ -229,7 +229,7 @@
     "bowlingStyle": "Offbreak",
     "rating": 8.7,
     "price": "$970000",
-    "playerImg": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Moeen_Ali.jpg"
+    "playerImg": "https://i.ibb.co.com/5x27DgnH/moeen.jpg "
   },
   {
     "playerName": "Ravindra Jadeja",
@@ -239,7 +239,7 @@
     "bowlingStyle": "Orthodox",
     "rating": 9.2,
     "price": "$1150000",
-    "playerImg": "https://ui-avatars.com/api/?name=Ravindra+Jadeja"
+    "playerImg": "https://i.ibb.co.com/FbTJsxkV/jadeja-ap.webp "
   },
   {
     "playerName": "Mushfiqur Rahim",
@@ -249,7 +249,7 @@
     "bowlingStyle": "N/A",
     "rating": 8.6,
     "price": "$900000",
-    "playerImg": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Mushfiqur_Rahim.jpg"
+    "playerImg": " https://i.ibb.co.com/Kc3Z9cwT/Mushfiq.jpg"
   },
   {
     "playerName": "Tamim Iqbal",
@@ -259,7 +259,7 @@
     "bowlingStyle": "N/A",
     "rating": 8.5,
     "price": "$880000",
-    "playerImg": "https://ui-avatars.com/api/?name=Tamim+Iqbal"
+    "playerImg": "https://i.ibb.co.com/fV3xS7Qs/cover-1736572027-Foto-Jet.jpg"
   },
   {
     "playerName": "Litton Das",
@@ -269,7 +269,7 @@
     "bowlingStyle": "N/A",
     "rating": 8.7,
     "price": "$920000",
-    "playerImg": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Litton_Das.jpg"
+    "playerImg": "https://i.ibb.co.com/bg4Lnfkr/image-294776-1753194184.jpg "
   },
   {
     "playerName": "Aiden Markram",
@@ -279,7 +279,7 @@
     "bowlingStyle": "Offbreak",
     "rating": 8.6,
     "price": "$940000",
-    "playerImg": "https://ui-avatars.com/api/?name=Aiden+Markram"
+    "playerImg": "https://i.ibb.co.com/LLCC8kX/South-Africa-Aiden-Markram-PTI-CROP.jpg "
   },
   {
     "playerName": "Faf du Plessis",
@@ -289,7 +289,7 @@
     "bowlingStyle": "Legbreak",
     "rating": 8.8,
     "price": "$990000",
-    "playerImg": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Faf_du_Plessis.jpg"
+    "playerImg": "https://i.ibb.co.com/G4CQ3xPZ/117006439-faf-du-plessis-getty2.jpg "
   },
   {
     "playerName": "Kagiso Rabada",
@@ -299,6 +299,6 @@
     "bowlingStyle": "Fast",
     "rating": 9.0,
     "price": "$1150000",
-    "playerImg": "https://ui-avatars.com/api/?name=Kagiso+Rabada"
+    "playerImg": " https://i.ibb.co.com/zTYm9c46/Kagiso.jpg"
   }
 ]

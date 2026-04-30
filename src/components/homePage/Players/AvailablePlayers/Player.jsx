@@ -4,7 +4,7 @@ import { Flag, User } from "lucide-react";
 const Player = ({ player }) => {
   console.log(player);
   return (
-    <div className="card bg-base-100 w-96 shadow-sm">
+    <div className="card bg-base-100 shadow-sm">
       <figure>
         <img
           src={player.playerImg}
